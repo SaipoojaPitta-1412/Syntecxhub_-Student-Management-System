@@ -1,0 +1,29 @@
+# Compiled Java execution files
+*.class
+
+# Executable and archive extensions
+*.jar
+*.war
+*.ear
+
+# Local Storage / Data Files (Do not commit user data to Git)
+*.dat
+*.db
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# VS Code directory
+.vscode/
+
+# Build directories
+bin/
+target/
+build/
